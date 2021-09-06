@@ -1,0 +1,8 @@
+Shooting speed 200
+200
+Max hp 10
+10
+hp at start 10
+10
+dmg of bullets 5
+5
